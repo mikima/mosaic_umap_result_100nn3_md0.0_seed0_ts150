@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mikima.github.io/mosaic_umap_result_100nn3_md0.0_seed0_ts150/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mikima/mosaic_umap_result_100nn3_md0.0_seed0_ts150 project"
+        ]
+    },
+    "items": []
+}
